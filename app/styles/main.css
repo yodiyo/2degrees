@@ -7316,7 +7316,7 @@ body {
 }
 /* header */
 header {
-  background: url('../images/agriculture.png') no-repeat left 10%;
+  background: url('images/agriculture.png') no-repeat left 10%;
   position: relative;
   width: 100%;
   height: 100%;
